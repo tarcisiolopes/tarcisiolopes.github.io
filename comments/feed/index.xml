@@ -11,29 +11,11 @@
 	<atom:link href="https://tarcisiolopes.github.io/comments/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tarcisiolopes.github.io</link>
 	<description>Portfólio Digital</description>
-	<lastBuildDate>Sun, 20 Jun 2021 20:18:54 +0000</lastBuildDate>
+	<lastBuildDate>Fri, 25 Jun 2021 01:11:15 +0000</lastBuildDate>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
-	<item>
-		<title>
-		Comentário sobre Olá, mundo! por Um comentarista do WordPress		</title>
-		<link>https://tarcisiolopes.github.io/ola-mundo/#comment-1</link>
-
-		<dc:creator><![CDATA[Um comentarista do WordPress]]></dc:creator>
-		<pubDate>Sun, 20 Jun 2021 14:23:16 +0000</pubDate>
-		<guid isPermaLink="false">https://tarcisiolopes.github.io/?p=1#comment-1</guid>
-
-					<description><![CDATA[Olá, isso é um comentário.
-Para começar a moderar, editar e excluir comentários, visite a tela de Comentários no painel.
-Avatares de comentaristas vêm a partir do &lt;a href=&quot;https://gravatar.com&quot;&gt;Gravatar&lt;/a&gt;.]]></description>
-			<content:encoded><![CDATA[<p>Olá, isso é um comentário.<br />
-Para começar a moderar, editar e excluir comentários, visite a tela de Comentários no painel.<br />
-Avatares de comentaristas vêm a partir do <a href="https://gravatar.com/">Gravatar</a>.</p>
-]]></content:encoded>
-		
-			</item>
-	</channel>
+</channel>
 </rss>
