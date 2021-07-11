@@ -12,12 +12,20 @@
 	<atom:link href="https://tarcisiolopes.github.io/feed/" rel="self" type="application/rss+xml" />
 	<link>https://tarcisiolopes.github.io</link>
 	<description>Portfólio Digital</description>
-	<lastBuildDate>Fri, 25 Jun 2021 01:11:15 +0000</lastBuildDate>
+	<lastBuildDate>Sat, 10 Jul 2021 06:30:52 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
 	<generator>https://wordpress.org/?v=5.7.2</generator>
+
+<image>
+	<url>https://tarcisiolopes.github.io/wp-content/uploads/2021/07/logotarcisio_micro_4.png</url>
+	<title>Tarcisio Lopes</title>
+	<link>https://tarcisiolopes.github.io</link>
+	<width>32</width>
+	<height>32</height>
+</image> 
 </channel>
 </rss>
