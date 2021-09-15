@@ -12,13 +12,13 @@
 	<atom:link href="./index.html" rel="self" type="application/rss+xml" />
 	<link>./../index.html</link>
 	<description></description>
-	<lastBuildDate>Sat, 04 Sep 2021 20:37:58 +0000</lastBuildDate>
+	<lastBuildDate>Wed, 15 Sep 2021 00:12:25 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.8</generator>
+	<generator>https://wordpress.org/?v=5.8.1</generator>
 
 <image>
 	<url>./../wp-content/uploads/2021/08/logotarcisio_micro_4-150x150.png</url>
