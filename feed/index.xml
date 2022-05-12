@@ -9,40 +9,60 @@
 
 <channel>
 	<title>Tarcisio Lopes</title>
-	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
-	<link></link>
+	<atom:link href="http:///feed/" rel="self" type="application/rss+xml" />
+	<link>http:///</link>
 	<description>Portfólio Digital</description>
-	<lastBuildDate>Thu, 27 Jan 2022 13:36:52 +0000</lastBuildDate>
-	<language>pt-BR</language>
+	<lastBuildDate>Thu, 12 May 2022 14:49:54 +0000</lastBuildDate>
+	<language>pt-PT</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9</generator>
+	<generator>https://wordpress.org/?v=5.9.3</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/01/logotarcisio_micro_4.png</url>
+	<url>http:///wp-content/uploads/2022/05/logotarcisio_micro_4-150x150.png</url>
 	<title>Tarcisio Lopes</title>
-	<link></link>
+	<link>http:///</link>
 	<width>32</width>
 	<height>32</height>
 </image> 
 	<item>
-		<title>Olá, mundo!</title>
-		<link>/2022/01/27/ola-mundo/</link>
-					<comments>/2022/01/27/ola-mundo/#comments</comments>
+		<title>Hello world!</title>
+		<link>http:///2022/05/12/hello-world/</link>
+					<comments>http:///2022/05/12/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[tarcisiolopes]]></dc:creator>
-		<pubDate>Thu, 27 Jan 2022 13:36:52 +0000</pubDate>
+		<pubDate>Thu, 12 May 2022 14:49:54 +0000</pubDate>
+				<category><![CDATA[Uncategorized]]></category>
+		<guid isPermaLink="false">http:///?p=1</guid>
+
+					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
+										<content:encoded><![CDATA[
+<p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
+]]></content:encoded>
+					
+					<wfw:commentRss>http:///2022/05/12/hello-world/feed/</wfw:commentRss>
+			<slash:comments>1</slash:comments>
+		
+		
+			</item>
+		<item>
+		<title>Olá, mundo!</title>
+		<link>http:///2022/04/17/ola-mundo/</link>
+					<comments>http:///2022/04/17/ola-mundo/#comments</comments>
+		
+		<dc:creator><![CDATA[tarcisiolopes]]></dc:creator>
+		<pubDate>Sun, 17 Apr 2022 13:24:06 +0000</pubDate>
 				<category><![CDATA[Sem categoria]]></category>
-		<guid isPermaLink="false">/?p=1</guid>
+		<guid isPermaLink="false">http://localhost/tarcisiolopes/?p=1</guid>
 
 					<description><![CDATA[Boas-vindas ao WordPress. Esse é o seu primeiro post. Edite-o ou exclua-o, e então comece a escrever!]]></description>
 										<content:encoded><![CDATA[
 <p>Boas-vindas ao WordPress. Esse é o seu primeiro post. Edite-o ou exclua-o, e então comece a escrever!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2022/01/27/ola-mundo/feed/</wfw:commentRss>
+					<wfw:commentRss>http:///2022/04/17/ola-mundo/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
