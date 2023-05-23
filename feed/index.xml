@@ -11,17 +11,17 @@
 	<title>Tarcisio Lopes</title>
 	<atom:link href="/feed/" rel="self" type="application/rss+xml" />
 	<link></link>
-	<description></description>
-	<lastBuildDate>Sun, 17 Apr 2022 13:24:06 +0000</lastBuildDate>
+	<description>Portfólio Digital</description>
+	<lastBuildDate>Mon, 22 May 2023 20:57:19 +0000</lastBuildDate>
 	<language>pt-BR</language>
 	<sy:updatePeriod>
 	hourly	</sy:updatePeriod>
 	<sy:updateFrequency>
 	1	</sy:updateFrequency>
-	<generator>https://wordpress.org/?v=5.9.3</generator>
+	<generator>https://wordpress.org/?v=6.2.2</generator>
 
 <image>
-	<url>/wp-content/uploads/2022/04/logotarcisio_micro_4.png</url>
+	<url>/wp-content/uploads/2023/05/logotarcisio_micro_4.png</url>
 	<title>Tarcisio Lopes</title>
 	<link></link>
 	<width>32</width>
@@ -29,11 +29,11 @@
 </image> 
 	<item>
 		<title>Olá, mundo!</title>
-		<link>/2022/04/17/ola-mundo/</link>
-					<comments>/2022/04/17/ola-mundo/#comments</comments>
+		<link>/2023/05/22/ola-mundo/</link>
+					<comments>/2023/05/22/ola-mundo/#comments</comments>
 		
 		<dc:creator><![CDATA[tarcisiolopes]]></dc:creator>
-		<pubDate>Sun, 17 Apr 2022 13:24:06 +0000</pubDate>
+		<pubDate>Mon, 22 May 2023 20:57:19 +0000</pubDate>
 				<category><![CDATA[Sem categoria]]></category>
 		<guid isPermaLink="false">/?p=1</guid>
 
@@ -42,7 +42,7 @@
 <p>Boas-vindas ao WordPress. Esse é o seu primeiro post. Edite-o ou exclua-o, e então comece a escrever!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>/2022/04/17/ola-mundo/feed/</wfw:commentRss>
+					<wfw:commentRss>/2023/05/22/ola-mundo/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
